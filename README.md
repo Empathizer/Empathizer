@@ -5,4 +5,4 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Studying Software Engineering at FAST National University of Computer and Emerging Sciences.
 - 😊 &nbsp; I will work hard.
-🥋 &nbsp; hobbies-> Football,Poetry,Fitness.
+-🥋 &nbsp; hobbies-> Football,Poetry,Fitness.
