@@ -1,6 +1,5 @@
 ### Hey there 👋
 
-Here are some ideas to get you started:
 <h1> 💁‍♂️ This is Ali Haider </h1>
 
 <h3>- 🎓 &nbsp; Studying Software Engineering at FAST National University of Computer and Emerging Sciences.<h2>
